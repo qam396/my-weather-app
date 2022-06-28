@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`weather page should return weather back 1`] = `
+<div>
+  <main>
+    <!--v-if-->
+    <div
+      class="search-box"
+    >
+      <input
+        class="search-bar"
+        placeholder="Search..."
+        type="text"
+      />
+    </div>
+    <!--v-if-->
+    <!--v-if-->
+  </main>
+</div>
+`;
